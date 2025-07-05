@@ -1,9 +1,10 @@
 # Alina Zaitceva
+
 📍Nizhniy Novgorod, Russia
-✉️ E-mail: a.zaitceva@dppm.pro
-📱 [Telegram:] (https://t.me/zaitca01)
-/**Discord:** azaitceva
-/**GitHub:** azaitceva
+\✉️ E-mail: a.zaitceva@dppm.pro
+\📱 [Telegram:] (https://t.me/zaitca01)
+\ **Discord:** azaitceva
+\ **GitHub:** azaitceva
 
 ## Summary
 Results-driven Product Manager with 3+ years of experience in agile  development, passionate about bridging user needs with business goals. Strong background in roadmap prioritization, and cross-functional leadership. 
@@ -17,7 +18,7 @@ Currently studying front-end development at RS School.
 
 ## Education
 **Master's degree Specialty: Innovation Management**
-R.E. Alekseev University | 2012–2018
+\R.E. Alekseev University | 2012–2018
 
 ## Languages
 * **Russian** - Native;
