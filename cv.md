@@ -2,7 +2,7 @@
 
 📍Nizhniy Novgorod, Russia\
 ✉️ **E-mail:** a.zaitceva@dppm.pro\
-📱 **[Telegram:]** (https://t.me/zaitca01)\
+📱 **[Telegram:]**(https://t.me/zaitca01)\
 **Discord:** azaitceva\
 **GitHub:** azaitceva
 
@@ -17,8 +17,8 @@ Currently studying front-end development at RS School.
 > **2018 - 2023** | "Heineken" - Support Manager
 
 ## Education
-**Master's degree Specialty: Innovation Management**
-\R.E. Alekseev University | 2012–2018
+**Master's degree Specialty: Innovation Management**\
+R.E. Alekseev University | 2012–2018
 
 ## Languages
 * **Russian** - Native;
