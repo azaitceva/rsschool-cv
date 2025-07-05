@@ -1,8 +1,8 @@
 # Alina Zaitceva
 
 📍Nizhniy Novgorod, Russia\
-✉️ **E-mail:** a.zaitceva@dppm.pro\
-📱 **[Telegram:]**(https://t.me/zaitca01)\
+✉️ E-mail: a.zaitceva@dppm.pro\
+📱 [Telegram](https://t.me/zaitca01)\
 **Discord:** azaitceva\
 **GitHub:** azaitceva
 
