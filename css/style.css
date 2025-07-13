@@ -1,33 +1,13 @@
-.header {
-  background-color: #333;
-  color: white;
-  padding: 1rem;
-  text-align: center;
-  border: 1px solid red; /* Граница */
-
-  /* Навигация */
-.nav-list {
-  display: flex;
-  justify-content: flex-end;
-  align-items: center;
-}
-}
-.main {
-  flex: 1;
-  padding: 2rem;
-  background-color: #f9f9f9;
-  border: 1px solid red; /* Граница */
-}
-.footer {
-  background-color: #333;
-  color: white;
-  text-align: center;
-  padding: 1rem;
-  border: 1px solid red; /* Граница */
-}
+/* Плавная прокрутка */
+html {
+  scroll-behavior: smooth;
+} 
 body {
-  font-family: 'Roboto', sans-serif; /* Стилизация шрифта*/
-   display: flex;
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  display: flex;
   flex-direction: column;
   justify-content: space-between; /* Прижимает header и footer к краям */
 }
@@ -42,6 +22,51 @@ body {
   padding: 0 20px;   /* Отступы внутри контейнера (опционально) */
   box-sizing: border-box; /* Чтобы padding не влиял на max-width */
 }
-html {
-  scroll-behavior: smooth;
-} /* Плавная прокрутка */
+
+.header {
+  background-color: #333;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+  border: 1px solid red; /* Граница */
+}
+
+.profile-img {
+  max-width: 200px;
+  border-radius: 50%;
+  margin: 1rem 0;
+}
+
+  /* Навигация */
+.nav-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  padding: 0;
+  list-style: none;
+}
+
+.main {
+  flex: 1;
+  padding: 2rem;
+  background-color: #f9f9f9;
+  border: 1px solid red; /* Граница */
+}
+section {
+  margin-bottom: 2rem;
+  padding: 1rem;
+}
+.footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  border: 1px solid red; /* Граница */
+}
+.footer img {
+  max-height: 50px;
+}
+
+
+
