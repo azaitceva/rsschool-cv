@@ -21,6 +21,7 @@ body {
   margin: 0 auto;    /* Автоматические отступы по бокам (центрирование) */
   width: 100%;       /* На всю доступную ширину */
   padding: 0 20px;   /* Отступы внутри контейнера (опционально) */
+  box-sizing: border-box;
 }
 
 .header {
@@ -33,13 +34,12 @@ body {
   display: flex;
   flex-wrap: wrap;
   gap: 2rem;
-  align-items: center;
+  align-items: flex-start;
 }
 
 .header-left {
   flex: 1;
   min-width: 300px;
-  text-align: center;
 }
 
 .header-right {
@@ -53,9 +53,9 @@ body {
    margin: 1rem 0;
 }
 .contacts {
-    text-align: left;
+  text-align: left;
   padding: 1rem;
-  }
+}
   /* Навигация */
 .nav-list {
   display: flex;
@@ -94,7 +94,7 @@ section {
   background-color: #88B6A1;
   color: white;
   text-align: center;
-  padding: 1rem;
+  padding: 1.5rem 0;
 }
 .footer img {
   max-height: 50px;
