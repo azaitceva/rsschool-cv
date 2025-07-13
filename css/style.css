@@ -1,0 +1,47 @@
+.header {
+  background-color: #333;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+  border: 1px solid red; /* Граница */
+
+  /* Навигация */
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+}
+.main {
+  flex: 1;
+  padding: 2rem;
+  background-color: #f9f9f9;
+  border: 1px solid red; /* Граница */
+}
+.footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  border: 1px solid red; /* Граница */
+}
+body {
+  font-family: 'Roboto', sans-serif; /* Стилизация шрифта*/
+   display: flex;
+  flex-direction: column;
+  justify-content: space-between; /* Прижимает header и footer к краям */
+}
+* {
+  box-sizing: border-box;
+}
+/* Контейнер для центрирования контента */
+.container {
+  max-width: 1440px; /* Максимальная ширина */
+  margin: 0 auto;    /* Автоматические отступы по бокам (центрирование) */
+  width: 100%;       /* На всю доступную ширину */
+  padding: 0 20px;   /* Отступы внутри контейнера (опционально) */
+  box-sizing: border-box; /* Чтобы padding не влиял на max-width */
+}
+html {
+  scroll-behavior: smooth;
+} /* Плавная прокрутка */
